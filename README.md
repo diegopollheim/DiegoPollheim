@@ -100,9 +100,20 @@ Hoje, busco continuar evoluindo como engenheiro de software, aprofundando meus c
 ## 🐍 Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DiegoPollheim/DiegoPollheim/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DiegoPollheim/DiegoPollheim/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/DiegoPollheim/DiegoPollheim/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 ## 📫 Entre em contato
