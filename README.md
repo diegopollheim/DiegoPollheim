@@ -97,6 +97,14 @@ Hoje, busco continuar evoluindo como engenheiro de software, aprofundando meus c
 
 ---
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+</picture>
+
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/diego-pollheim-979a5a1a7)
